@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💎 IntelliWealth - Financial Intelligence Agent
 
 > Production-Ready Full-Stack AI Personal Finance Management Platform built with **React, FastAPI, SQLAlchemy, Scikit-Learn, and Google Gemini API**.
@@ -131,3 +132,7 @@ IntelliWealth/
 
 - **Frontend (Vercel)**: Connect repository, set build command `npm run build`, output directory `dist`.
 - **Backend (Render/Railway)**: Deploy as a Python web service, set start command `uvicorn app.main:app --host 0.0.0.0 --port $PORT`. Set environment variables `DATABASE_URL` (PostgreSQL) and `SECRET_KEY`.
+=======
+# IntelliWealth
+IntelliWealth is an AI-powered personal financial intelligence platform that analyzes spending patterns, provides smart budgeting and savings recommendations, predicts future financial trends, and empowers users to make informed financial decisions.
+>>>>>>> c1e9db3d06827e2c6d26bb8a1d0ff912fdfea72e
